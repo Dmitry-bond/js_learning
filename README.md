@@ -1,1 +1,1 @@
-# js_learning
+# Задания с learn.javascript.ru
